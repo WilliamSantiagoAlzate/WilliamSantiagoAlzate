@@ -8,7 +8,9 @@
 
 # 👋 Hi, welcome to my GitHub profile
 
-I'm Frontend Developer and I'm love learning and creating new technologies.
+I'm Front-end Developer with experience in React and Angular, I've always loved learning so some years ago I started to learn about web technologies by myself with different courses and tutorials online. Currently, I have more than a year working in a tech company where I've consolidated all my knowledge, and a few months ago I became a Platzi Master student, this program has helped me to improve from my web development skills to my soft skills, and I so happy about that because now I'm a better professional.
+
+I continue learning and I love creating new technologies, so if you are interested to build amazing projects with me, just contact me at this email santiago_alza@hotmail.com   
 
 ## GitHub Stats
 
